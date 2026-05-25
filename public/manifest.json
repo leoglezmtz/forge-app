@@ -1,0 +1,10 @@
+{
+  "name": "FORGE — Gym Tracker",
+  "short_name": "FORGE",
+  "description": "Tu entrenador personal para Gym IBERO Tijuana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0c",
+  "theme_color": "#0a0a0c",
+  "orientation": "portrait"
+}
